@@ -2,12 +2,12 @@
   "name": "pogilvie-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "pogilvie syntax color preferences",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/pogilvie-syntax",
+  "repository": "https://github.com/pogilvie/pogilvie-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
